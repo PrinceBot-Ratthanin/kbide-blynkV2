@@ -1,0 +1,15 @@
+{
+  "name": "BlynkV2",
+  "title" : "BlynkV2",
+  "keywords": "sensors, control, device, smartphone, mobile, app, web, cloud, communication, protocol, iot, m2m, wifi, ble, bluetooth, ethernet, usb, serial, gsm, gprs, 3g, data, esp8266, http",
+  "description": "Build a smartphone app for your project in minutes. Blynk allows creating IoT solutions easily.",
+  "category":"Communication",
+  "license": "MIT",
+  "git": "https://github.com/PrinceBot-Ratthanin/kbide-blynkV2/",
+  "author": "Volodymyr Shymanskyy |block by PrinceBot",
+  "email": "vshymanskyi@gmail.com",
+  "url": "https://blynk.io/",
+  "version": "1.0.0",
+  "platform": ["arduino-esp32"],
+  "image" : "/static/blynkV2-logo.png"
+}
